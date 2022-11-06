@@ -1,11 +1,23 @@
+body {
+  background-color: #153462;
+}
 
-  body {
-    background-color: #153462;
-  }
-  hr {
-    border-style: none;
-    border-top-style: dotted;
-    border-color: grey;
-    border-width: 5px;
-    width: 30%;
-  }
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 30%;
+}
+
+h1 {
+  color: aqua;
+}
+
+h3 {
+  color: cornflowerblue;
+}
+
+a {
+  color: azure;
+}
